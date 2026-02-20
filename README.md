@@ -177,7 +177,7 @@ frida -U -f com.nawonisosu.keyboard -l scripts/frida_hook.js
 
 **Analysts:**
 - GitHub: [@iampopg](https://github.com/iampopg)
-- GitHub: [@feranmi_idowu](https://github.com/feranmi-idowu)
+- GitHub: [@feranmi_idowu](https://github.com/feranmiidowu)
 
 **Case ID:** MAL-2026-02-7A3F9B
 
