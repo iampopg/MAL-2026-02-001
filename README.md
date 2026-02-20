@@ -24,7 +24,7 @@
 **Threat Type:** Android Banking Trojan  
 **Distribution:** smart-interview.org (TAKEN DOWN - February 17, 2026)  
 **Package Name:** `com.nawonisosu.keyboard`  
-**Case ID:** MAL-2026-02-7A3F9B  
+**Case ID:** MAL-2026-02-001  
 
 **Status:** ✅ Domain successfully taken down by NameSilo registrar
 
