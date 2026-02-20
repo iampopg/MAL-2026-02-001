@@ -1,0 +1,24 @@
+# Malware samples - DO NOT COMMIT
+*.apk
+*.dex
+*.so
+*.ts
+
+# Decrypted assets
+decrypted/
+extracted/
+
+# Analysis artifacts
+*.log
+*.pcap
+memory_dumps/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
