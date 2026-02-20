@@ -86,6 +86,7 @@ MAL-2026-02-001/
 
 The malware sample is **NOT** hosted in this repository. Access it through:
 
+- **MalwareBazaar:** [Download Sample](https://bazaar.abuse.ch/sample/3728c15264d7cf07f037201631a26e01e3c89be3046e04d2dcaedb6f7431e78c/)
 - **VirusTotal:** [View Analysis](https://www.virustotal.com/gui/file/3728c15264d7cf07f037201631a26e01e3c89be3046e04d2dcaedb6f7431e78c)
 - **SHA256 Hash:** `3728c15264d7cf07f037201631a26e01e3c89be3046e04d2dcaedb6f7431e78c`
 
